@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ankit-mjain/Learnings/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I have started on a journey to enter the Machine Learning & AI world and would be competiting in multiple competitions across the internet (Kaggle, AnalyticsVidhya etc) to learn & improve myself. The plan would be compete, learn & share learning so that i could use them in future. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Housing Prices - Advanced Regression Technique(https://github.com/ankit-mjain/Learnings/edit/master/index.md) 
+
 
 ### Markdown
 
