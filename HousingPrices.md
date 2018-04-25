@@ -7,10 +7,10 @@ The idea is to capture the learnings i have had during this competition and ensu
 Below are the learnings i have had during this time - 
 1. Regression assumes that the below are satisfied. Whenever working on a regression problem, ensure that the below assumptions are correct for the dataset being used. If not, then modify the dataset correspondingly to reflect the same.
 
-  1.a) Linear relationship  
+...1.a) Linear relationship  
   Dependent & independent variables should have a linear relationship between them. Scatter plots can be used to determine       linearity between the variables and to identify outliers if any.
   
-  1.b) Multivariate normality  
+...1.b) Multivariate normality  
   Data should be normal before it can used in regression. The easiest way is to plot a histogram to check for normality. If not   normally distributed, then non-linear transformation (log transforamtion) can be used to normalize the data. Histograms can     also be used to identify skewness & kurtosisi in data.
   
   1.c) No or little multicollinearity  
