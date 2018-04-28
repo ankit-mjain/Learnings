@@ -14,5 +14,7 @@ Below are the learnings i have had during this time -
   Data should be normal before it can used in regression. The easiest way is to plot a histogram to check for normality. If not   normally distributed, then non-linear transformation (log transforamtion) can be used to normalize the data. Histograms can     also be used to identify skewness & kurtosisi in data.
   
   1.c) No or little multicollinearity  
+  Multicollinearity occurs when the independent variables are highly correated to each other.
+  
   1.d) No auto-correlation  
   1.e) Homoscedasticity  
