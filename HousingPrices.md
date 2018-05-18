@@ -17,4 +17,7 @@ Below are the learnings i have had during this time -
   Multicollinearity occurs when the independent variables are highly correated to each other.
   
   1.d) No auto-correlation  
+  Occurs when residuals are not independent of each other.Scatter plots can be used to understand auto correlation amongst the   residuals.
+  
   1.e) Homoscedasticity  
+  Means the residuals are equal across the regression line. Use Scatter Plots.
